@@ -1,0 +1,4 @@
+rootProject.name = "SryMiddleWare"
+include ':app'
+include ':srymodule'
+include ':sryutil'
